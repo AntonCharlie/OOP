@@ -1,0 +1,17 @@
+{
+	"admin" : {
+		"first" : "admin",
+		"last" : "admin",
+		"password" : "12345"
+	},
+	"root" : {
+		"first" : "root",
+		"last" : "root",
+		"password" : "12345"
+	},
+	"charlie" : {
+		"first" : "charlie",
+		"last" : "charlie",
+		"password" : "270207"
+	}
+}
